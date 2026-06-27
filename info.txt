@@ -1,0 +1,37 @@
+# 🔥 Plugin-Beschreibung
+
+Ein leistungsstarkes und optimiertes **Paper-Plugin** für **Minecraft 1.21.10-1.21.11**.
+
+## ✅ Features
+
+* ✔️ Vollständige Unterstützung für **Paper 1.21.10-1.21.11**
+* ✔️ Umfangreiches **Permission-System**
+* ✔️ Hohe Performance und geringer Ressourcenverbrauch
+* ✔️ Einfache Konfiguration
+* ✔️ Sauber programmierter Code
+* ✔️ Regelmäßige Updates
+* ✔️ Leicht zu installieren
+* ✔️ Kompatibel mit modernen Paper-Servern
+
+## 📦 Voraussetzungen
+
+* **Minecraft Version:** 1.21.10-1.21.11
+* **Server-Software:** Paper
+* **Java:** Die für Paper 1.21.10-1.21.11 empfohlene Java-Version
+
+## 🔑 Permissions
+
+ Team Permissions : joinme.use
+
+## ⚡ Installation
+
+1. Plugin herunterladen.
+2. Die `.jar`-Datei in den `plugins`-Ordner legen.
+3. Den Server starten oder neu laden.
+4. Fertig!
+
+## 💬 Support
+
+Falls Probleme auftreten oder Verbesserungsvorschläge bestehen, kannst du jederzeit auf dem disorcd join und ein ticket machen
+
+Vielen Dank, dass du dieses Plugin verwendest! ❤️
